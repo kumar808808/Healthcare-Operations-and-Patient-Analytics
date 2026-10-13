@@ -43,19 +43,19 @@ This end-to-end data analytics project examines **Emergency Room (ER) operations
 ---
 ## 1. Consolidated View
 Monitors overall patient volume, admission split, wait times, and satisfaction scores at a glance.
-![Consolidated View](Dashboard/Dashboard_consolidatedview.png)
+![Consolidated View](./Dashboard/Dashboard_consolidatedview.png)
 
 ## 2. Monthly View
 Explores monthly arrival trends, peak operational days, and temporal demand patterns.
-![Monthly View](Dashboard/Dashboard_monthlyview.png)
+![Monthly View](./Dashboard/Dashboard_monthlyview.png)
 
 ## 3. Patient Details
 Provides individual patient records, department referrals, and demographic breakdowns.
-![Patient Details](Dashboard/Dashboard_patinetdetails.png)
+![Patient Details](./Dashboard/Dashboard_patinetdetails.png)
 
 ## 4. Insights & Metrics
 Summarizes key operational findings, wait-time bottlenecks, and actionable recommendations.
-![Insights](Dashboard/Dashboard_insights.png)
+![Insights](./Dashboard/Dashboard_insights.png)
 
 ##  Recommendations & Actionable Next Steps
 1. **Optimize Staffing Schedules:** Allocate additional nursing and medical staff during peak surge windows (**11 AM, 1 PM, 7 PM, and 11 PM**) and weekends (Saturdays and Sundays) to reduce average wait times below 30 minutes.
