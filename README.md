@@ -41,6 +41,21 @@ This end-to-end data analytics project examines **Emergency Room (ER) operations
 | **`No of Patient Referred`** | `COUNT(CASE WHEN "Department Referral" <> 'None' THEN 1 END)| `df[df['Department Referral'] != 'None']['Patient Id'].count()` |
 
 ---
+### 1. Healthcare Operations and Patient Analytics Consolidated View
+Monitors total fleet population, operational hours, and key failure indicators at a glance.
+![Executive Overview](Healthcare-Operations-and-Patient-Analytics/Dashboard/Dashboard_consolidatedview.png)
+
+### 2. Healthcare Operations and Patient Analytics Monthly View
+Explores root causes, comparing electrical, brake, and engine telemetry across vehicle brands.
+![Failure Analysis](Healthcare-Operations-and-Patient-Analytics/Dashboard/Dashboard_monthlyview.png)
+
+### 3. Healthcare Operations and Patient Analytics Patinet Details
+Ranks vehicles by ML-predicted failure probability to help engineering teams prioritize diagnostic inspections.
+![Predictive Maintenance](Healthcare-Operations-and-Patient-Analytics/Dashboard/patinetdetails.png)
+
+### 3. Healthcare Operations and Patient Analytics Insights
+Ranks vehicles by ML-predicted failure probability to help engineering teams prioritize diagnostic inspections.
+![Predictive Maintenance](Healthcare-Operations-and-Patient-Analytics/Dashboard/Dashboard_insights.png)
 
 ##  Recommendations & Actionable Next Steps
 1. **Optimize Staffing Schedules:** Allocate additional nursing and medical staff during peak surge windows (**11 AM, 1 PM, 7 PM, and 11 PM**) and weekends (Saturdays and Sundays) to reduce average wait times below 30 minutes.
