@@ -43,19 +43,19 @@ This end-to-end data analytics project examines **Emergency Room (ER) operations
 ---
 ## 1. Consolidated View
 Monitors overall patient volume, admission split, wait times, and satisfaction scores at a glance.
-<img src="Dashboard/Dashboard_consolidatedview.png" width="100%">
+![Consolidated View](https://raw.githubusercontent.com/kumar808808/Healthcare-Operations-and-Patient-Analytics/main/Dashboard/Dashboard_consolidatedview.png)
 
 ## 2. Monthly View
 Explores monthly arrival trends, peak operational days, and temporal demand patterns.
-<img src="Dashboard/Dashboard_monthlyview.png" width="100%">
+![Monthly View](https://raw.githubusercontent.com/kumar808808/Healthcare-Operations-and-Patient-Analytics/main/Dashboard/Dashboard_monthlyview.png)
 
 ## 3. Patient Details
 Provides individual patient records, department referrals, and demographic breakdowns.
-<img src="Dashboard/Dashboard_patinetdetails.png" width="100%">
+![Patient Details](https://raw.githubusercontent.com/kumar808808/Healthcare-Operations-and-Patient-Analytics/main/Dashboard/Dashboard_patinetdetails.png)
 
 ## 4. Insights & Metrics
 Summarizes key operational findings, wait-time bottlenecks, and actionable recommendations.
-<img src="Dashboard/Dashboard_insights.png" width="100%">
+![Insights](https://raw.githubusercontent.com/kumar808808/Healthcare-Operations-and-Patient-Analytics/main/Dashboard/Dashboard_insights.png)
 ##  Recommendations & Actionable Next Steps
 1. **Optimize Staffing Schedules:** Allocate additional nursing and medical staff during peak surge windows (**11 AM, 1 PM, 7 PM, and 11 PM**) and weekends (Saturdays and Sundays) to reduce average wait times below 30 minutes.
 2. **Fast-Track Referrals for General Practice & Orthopedics:** Streamline triage processes for GP and Orthopedic referrals, which account for over **74% of all total referrals**.
